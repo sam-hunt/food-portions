@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="foodPortionSizes">
+	  	<xs:complexType>
+	    	<xs:sequence>
+	    		<xs:element name="photo" maxOccurs="unbounded">
+	    			<xs:complexType>
+	    				<xs:sequence>
+				      		<xs:element name="photoGuideCode" type="xs:string" />
+							<xs:element name="photoNumber" type="xs:integer" />
+							<xs:element name="photoFilename" type="xs:string" />
+							<xs:element name="photoDescription" type="xs:string" />
+							<xs:element name="photoItem" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="inPhotoCode" type="xs:string" />
+										<xs:element name="atlasNumber" type="xs:integer" minOccurs="0" />
+										<xs:element name="itemDescription" type="xs:string" />
+										<xs:element name="weight" minOccurs="0">
+										  	<xs:complexType>
+										    	<xs:simpleContent>
+										      		<xs:extension base="xs:nonNegativeInteger">
+										        		<xs:attribute name="units" type="xs:string" default="g"/>
+										      		</xs:extension>
+										    	</xs:simpleContent>
+										  	</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+	    	</xs:sequence>
+	  	</xs:complexType>
+	</xs:element>
+</xs:schema>

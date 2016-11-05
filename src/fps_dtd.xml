@@ -1,0 +1,1319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foodPortionSizes SYSTEM "fps.dtd">
+<foodPortionSizes>
+	<photo>
+		<photoGuideCode>G1</photoGuideCode>
+		<photoNumber>79</photoNumber>
+		<photoFilename>79_G1.jpg</photoFilename>
+		<photoDescription>Bread Slice Selection</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>Whole grain bloomer small</itemDescription>
+			<weight units="g">27</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>Whole grain bloomer large</itemDescription>
+			<weight units="g">33</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C</inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>White crusty bloomer small</itemDescription>
+			<weight units="g">20</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>White crusty bloomer large</itemDescription>
+			<weight units="g">23</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<atlasNumber>5</atlasNumber>
+			<itemDescription>Wholemeal unsliced small</itemDescription>
+			<weight units="g">30</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<atlasNumber>6</atlasNumber>
+			<itemDescription>Wholemeal unsliced large</itemDescription>
+			<weight units="g">38</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<atlasNumber>7</atlasNumber>
+			<itemDescription>Soda bread</itemDescription>
+			<weight units="g">20</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H </inPhotoCode>
+			<atlasNumber>8</atlasNumber>
+			<itemDescription>Soda bread</itemDescription>
+			<weight units="g">32</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>I </inPhotoCode>
+			<atlasNumber>9</atlasNumber>
+			<itemDescription>White sliced small</itemDescription>
+			<weight units="g">25</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>J </inPhotoCode>
+			<atlasNumber>10</atlasNumber>
+			<itemDescription>White sliced large</itemDescription>
+			<weight units="g">36</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>K </inPhotoCode>
+			<atlasNumber>11</atlasNumber>
+			<itemDescription>White sliced large</itemDescription>
+			<weight units="g">36</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>L </inPhotoCode>
+			<atlasNumber>12</atlasNumber>
+			<itemDescription>Wholemeal sliced small</itemDescription>
+			<weight units="g">25</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>M </inPhotoCode>
+			<atlasNumber>13</atlasNumber>
+			<itemDescription>Wholemeal sliced large</itemDescription>
+			<weight units="g">36</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>N </inPhotoCode>
+			<atlasNumber>14</atlasNumber>
+			<itemDescription>Light rye bread</itemDescription>
+			<weight units="g">17</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>O</inPhotoCode>
+			<atlasNumber>15</atlasNumber>
+			<itemDescription>French stick 6" piece</itemDescription>
+			<weight units="g">120</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>p </inPhotoCode>
+			<atlasNumber>16</atlasNumber>
+			<itemDescription>French stick 2" piece</itemDescription>
+			<weight units="g">40</weight>
+		</photoItem>
+	</photo>
+	
+	<photo>
+		<photoGuideCode>G2</photoGuideCode>
+		<photoNumber>80</photoNumber>
+		<photoFilename>80_G2.jpg</photoFilename>
+		<photoDescription>Bread Rolls</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>White crusty pain</itemDescription>
+			<weight units="g">55</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>White petit pain</itemDescription>
+			<weight units="g">46</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C</inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>White bap soft</itemDescription>
+			<weight units="g">58</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>White Vienna crusty</itemDescription>
+			<weight units="g">60</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<atlasNumber>5</atlasNumber>
+			<itemDescription>White finger roll</itemDescription>
+			<weight units="g">41</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<atlasNumber>6</atlasNumber>
+			<itemDescription>White bridge roll</itemDescription>
+			<weight units="g">30</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<atlasNumber>7</atlasNumber>
+			<itemDescription>Brown soft bap</itemDescription>
+			<weight units="g">55</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H </inPhotoCode>
+			<atlasNumber>8</atlasNumber>
+			<itemDescription>Oatmeal soft</itemDescription>
+			<weight units="g">60</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>I </inPhotoCode>
+			<atlasNumber>9</atlasNumber>
+			<itemDescription>White crusty bap</itemDescription>
+			<weight units="g">51</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>J </inPhotoCode>
+			<atlasNumber>10</atlasNumber>
+			<itemDescription>White floury batch</itemDescription>
+			<weight units="g">65</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>K </inPhotoCode>
+			<atlasNumber>11</atlasNumber>
+			<itemDescription>Bagel</itemDescription>
+			<weight units="g">76</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>L </inPhotoCode>
+			<atlasNumber>12</atlasNumber>
+			<itemDescription>New York style bagel</itemDescription>
+			<weight units="g">80</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>M </inPhotoCode>
+			<atlasNumber>13</atlasNumber>
+			<itemDescription>Hamburger bun</itemDescription>
+			<weight units="g">71</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>N </inPhotoCode>
+			<atlasNumber>14</atlasNumber>
+			<itemDescription>(rusty granary</itemDescription>
+			<weight units="g">54</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>O</inPhotoCode>
+			<atlasNumber>15</atlasNumber>
+			<itemDescription>Hovis 'mini' loaf</itemDescription>
+			<weight units="g">35</weight>
+		</photoItem>
+	</photo>
+	
+	<photo>
+		<photoGuideCode>G3</photoGuideCode>
+		<photoNumber>81</photoNumber>
+		<photoFilename>81_G3.jpg</photoFilename>
+		<photoDescription>Pizza</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>Mini pizza thin base</itemDescription>
+			<weight units="g">106</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>10" pizza thin base</itemDescription>
+			<weight units="g">470</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C</inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>7" pizza thin base</itemDescription>
+			<weight units="g">229</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>13" pizza thin base</itemDescription>
+			<weight units="g">719</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>10" pizza deep pan base</itemDescription>
+			<weight units="g">570</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C</inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>7" pizza deep pan base</itemDescription>
+			<weight units="g">253</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>13" pizza deep pan base</itemDescription>
+			<weight units="g">826</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>10" pizza extra topping only</itemDescription>
+			<weight units="g">64</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C</inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>7" pizza extra topping only</itemDescription>
+			<weight units="g">45</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>13" pizza extra topping only</itemDescription>
+			<weight units="g">84</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G4</photoGuideCode>
+		<photoNumber>82</photoNumber>
+		<photoFilename>82_G4.jpg</photoFilename>
+		<photoDescription>Ham</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>Sandwich ham</itemDescription>
+			<weight units="g">31</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>(ooked ham</itemDescription>
+			<weight units="g">17</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C</inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>Premium English ham</itemDescription>
+			<weight units="g">40</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>Tender sweet roast ham</itemDescription>
+			<weight units="g">24</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<atlasNumber>5</atlasNumber>
+			<itemDescription>Oak smoked ham</itemDescription>
+			<weight units="g">16</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<atlasNumber>6</atlasNumber>
+			<itemDescription>Premium English ham</itemDescription>
+			<weight units="g">41</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<atlasNumber>7</atlasNumber>
+			<itemDescription>Pork luncheon meat</itemDescription>
+			<weight units="g">14</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H </inPhotoCode>
+			<atlasNumber>8</atlasNumber>
+			<itemDescription>Gammon ham</itemDescription>
+			<weight units="g">20</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>I </inPhotoCode>
+			<atlasNumber>9</atlasNumber>
+			<itemDescription>Smoked ham</itemDescription>
+			<weight units="g">38</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G5</photoGuideCode>
+		<photoNumber>83</photoNumber>
+		<photoFilename>83_G5.jpg</photoFilename>
+		<photoDescription>Sausages sausage rolls and frankfurters </photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>Frankfurter</itemDescription>
+			<weight units="g">23</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>Frankfurter</itemDescription>
+			<weight units="g">35</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C</inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>Frankfurter jumbo size</itemDescription>
+			<weight units="g">108</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>Sausage roll cocktail</itemDescription>
+			<weight units="g">9</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<atlasNumber>5</atlasNumber>
+			<itemDescription>Sausage roll</itemDescription>
+			<weight units="g">44</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<atlasNumber>6</atlasNumber>
+			<itemDescription>Sausage roll</itemDescription>
+			<weight units="g">133</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<atlasNumber>7</atlasNumber>
+			<itemDescription>Sausage chipolata</itemDescription>
+			<weight units="g">12</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H </inPhotoCode>
+			<atlasNumber>8</atlasNumber>
+			<itemDescription>Sausage</itemDescription>
+			<weight units="g">18</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>I </inPhotoCode>
+			<atlasNumber>9</atlasNumber>
+			<itemDescription>Sausage jumbo size</itemDescription>
+			<weight units="g">92</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>J </inPhotoCode>
+			<atlasNumber>10</atlasNumber>
+			<itemDescription>Sausage</itemDescription>
+			<weight units="g">84</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>K </inPhotoCode>
+			<atlasNumber>11</atlasNumber>
+			<itemDescription>Sausage</itemDescription>
+			<weight units="g">43</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>L </inPhotoCode>
+			<atlasNumber>12</atlasNumber>
+			<itemDescription>Sausage roll jumbo size</itemDescription>
+			<weight units="g">153</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G6</photoGuideCode>
+		<photoNumber>84</photoNumber>
+		<photoFilename>84_G6.jpg</photoFilename>
+		<photoDescription>Pork and lamb chops </photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>Pork chump chop no bone</itemDescription>
+			<weight units="g">120</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>Pork loin chop plus bone</itemDescription>
+			<weight units="g">145</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C </inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>Pork loin chop plus bone</itemDescription>
+			<weight units="g">100</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>Lamb trimmed loin chop</itemDescription>
+			<weight units="g">80</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<atlasNumber>5</atlasNumber>
+			<itemDescription>Lamb trimmed loin chop</itemDescription>
+			<weight units="g">123</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<atlasNumber>6</atlasNumber>
+			<itemDescription>Lamb cutlet</itemDescription>
+			<weight units="g">97</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<atlasNumber>7</atlasNumber>
+			<itemDescription>Lamb cutlet</itemDescription>
+			<weight units="g">53</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H </inPhotoCode>
+			<atlasNumber>8</atlasNumber>
+			<itemDescription>Lamb chump chop</itemDescription>
+			<weight units="g">200</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>I </inPhotoCode>
+			<atlasNumber>9</atlasNumber>
+			<itemDescription>Lamb chump chop</itemDescription>
+			<weight units="g">117</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G7</photoGuideCode>
+		<photoNumber>85</photoNumber>
+		<photoFilename>85_G7.jpg</photoFilename>
+		<photoDescription>Meat pies and Cornish pasties</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>Cornish pasty flat</itemDescription>
+			<weight units="g">163</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>Cornish pasty flat</itemDescription>
+			<weight units="g">136</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C </inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>Steak and kidney pie round deep filled</itemDescription>
+			<weight units="g">235</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>Chicken and mushroom pie round</itemDescription>
+			<weight units="g">168</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<atlasNumber>5</atlasNumber>
+			<itemDescription>Steak and kidney pie round</itemDescription>
+			<weight units="g">135</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<atlasNumber>6</atlasNumber>
+			<itemDescription>Beef and onion pie square</itemDescription>
+			<weight units="g">170</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<atlasNumber>7</atlasNumber>
+			<itemDescription>Cornish pasty domed</itemDescription>
+			<weight units="g">172</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H </inPhotoCode>
+			<atlasNumber>8</atlasNumber>
+			<itemDescription>Steak and kidney pie rectangular</itemDescription>
+			<weight units="g">178</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>I </inPhotoCode>
+			<atlasNumber>9</atlasNumber>
+			<itemDescription>Mi nced beef pie</itemDescription>
+			<weight units="g">166</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>J </inPhotoCode>
+			<atlasNumber>10</atlasNumber>
+			<itemDescription>Minced steak and kidney pie</itemDescription>
+			<weight units="g">96</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G8</photoGuideCode>
+		<photoNumber>86</photoNumber>
+		<photoFilename>86_G8.jpg</photoFilename>
+		<photoDescription>Pork pies</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>Individual pork pie</itemDescription>
+			<weight units="g">375</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>Individual pork pie</itemDescription>
+			<weight units="g">280</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C </inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>Individual pork pie</itemDescription>
+			<weight units="g">140</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>Individual pork pie</itemDescription>
+			<weight units="g">70</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<atlasNumber>5</atlasNumber>
+			<itemDescription>Rectangular slice of pork pie</itemDescription>
+			<weight units="g">100</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<atlasNumber>6</atlasNumber>
+			<itemDescription>Triangular slice of pork pie</itemDescription>
+			<weight units="g">100</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G9</photoGuideCode>
+		<photoNumber>87</photoNumber>
+		<photoFilename>87_G9.jpg</photoFilename>
+		<photoDescription>Chicken pieces</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>Breast no bone</itemDescription>
+			<weight units="g">100</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>Breast no bone</itemDescription>
+			<weight units="g">142</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C </inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>Drumstick</itemDescription>
+			<weight units="g">70</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>Drumstick</itemDescription>
+			<weight units="g">90</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<atlasNumber>5</atlasNumber>
+			<itemDescription>Drumstick</itemDescription>
+			<weight units="g">130</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<atlasNumber>6</atlasNumber>
+			<itemDescription>Leg</itemDescription>
+			<weight units="g">165</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<atlasNumber>7</atlasNumber>
+			<itemDescription>Leg</itemDescription>
+			<weight units="g">115</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H </inPhotoCode>
+			<atlasNumber>8</atlasNumber>
+			<itemDescription>Wing</itemDescription>
+			<weight units="g">83</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>I </inPhotoCode>
+			<atlasNumber>9</atlasNumber>
+			<itemDescription>Wing</itemDescription>
+			<weight units="g">55</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>J </inPhotoCode>
+			<atlasNumber>10</atlasNumber>
+			<itemDescription>Thigh</itemDescription>
+			<weight units="g">75</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G10</photoGuideCode>
+		<photoNumber>88</photoNumber>
+		<photoFilename>88_G10.jpg</photoFilename>
+		<photoDescription>Prawns</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>Whole prawn with shell</itemDescription>
+			<weight units="g">9</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>Tiger prawn (no head) with shell</itemDescription>
+			<weight units="g">13</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C </inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>Small prawn peeled</itemDescription>
+			<weight units="g">2</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>Average prawn peeled</itemDescription>
+			<weight units="g">3</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<atlasNumber>5</atlasNumber>
+			<itemDescription>Large prawn peeled</itemDescription>
+			<weight units="g">4</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<atlasNumber>6</atlasNumber>
+			<itemDescription>King prawn peeled</itemDescription>
+			<weight units="g">6</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<atlasNumber>7</atlasNumber>
+			<itemDescription>Tiger prawn peeled</itemDescription>
+			<weight units="g">10</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G11</photoGuideCode>
+		<photoNumber>89</photoNumber>
+		<photoFilename>89_G11.jpg</photoFilename>
+		<photoDescription>Tomatoes</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>Whole tomato</itemDescription>
+			<weight units="g">179</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>Whole tomato</itemDescription>
+			<weight units="g">125</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C </inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>Whole tomato</itemDescription>
+			<weight units="g">80</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>Whole tomato</itemDescription>
+			<weight units="g">57</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<atlasNumber>5</atlasNumber>
+			<itemDescription>Whole tomato</itemDescription>
+			<weight units="g">35</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<atlasNumber>6</atlasNumber>
+			<itemDescription>Whole tomato</itemDescription>
+			<weight units="g">21</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<atlasNumber>7</atlasNumber>
+			<itemDescription>Whole tomato</itemDescription>
+			<weight units="g">13</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H </inPhotoCode>
+			<atlasNumber>8</atlasNumber>
+			<itemDescription>Whole tomato</itemDescription>
+			<weight units="g">6</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G12</photoGuideCode>
+		<photoNumber>90</photoNumber>
+		<photoFilename>90_G12.jpg</photoFilename>
+		<photoDescription>Fruit</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>Whole Banana without skin</itemDescription>
+			<weight units="g">166</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>Whole Banana without skin</itemDescription>
+			<weight units="g">116</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C</inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>Whole Banana without skin</itemDescription>
+			<weight units="g">102</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>Whole Banana without skin</itemDescription>
+			<weight units="g">71</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<atlasNumber>5</atlasNumber>
+			<itemDescription>Whole Orange without skin</itemDescription>
+			<weight units="g">240</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<atlasNumber>6</atlasNumber>
+			<itemDescription>Whole Orange without skin</itemDescription>
+			<weight units="g">189</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<atlasNumber>7</atlasNumber>
+			<itemDescription>Whole Orange without skin</itemDescription>
+			<weight units="g">124</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H </inPhotoCode>
+			<atlasNumber>8</atlasNumber>
+			<itemDescription>Whole Orange without skin</itemDescription>
+			<weight units="g">87</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>I</inPhotoCode>
+			<atlasNumber>9</atlasNumber>
+			<itemDescription>Pink Lady (no core or skin)</itemDescription>
+			<weight units="g">154</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>J </inPhotoCode>
+			<atlasNumber>10</atlasNumber>
+			<itemDescription>Golden Delicious (no core or skin)</itemDescription>
+			<weight units="g">122</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>K </inPhotoCode>
+			<atlasNumber>11</atlasNumber>
+			<itemDescription>Red Delicious (no core or skin)</itemDescription>
+			<weight units="g">86</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>L </inPhotoCode>
+			<atlasNumber>12</atlasNumber>
+			<itemDescription>Granny Smith (no core or skin)</itemDescription>
+			<weight units="g">99</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G13</photoGuideCode>
+		<photoNumber>91</photoNumber>
+		<photoFilename>91_G13.jpg</photoFilename>
+		<photoDescription>Indian breads and samosas</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<atlasNumber>1</atlasNumber>
+			<itemDescription>Naan bread small</itemDescription>
+			<weight units="g">64</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<atlasNumber>2</atlasNumber>
+			<itemDescription>Chapatti small</itemDescription>
+			<weight units="g">38</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C </inPhotoCode>
+			<atlasNumber>3</atlasNumber>
+			<itemDescription>Chapatti large</itemDescription>
+			<weight units="g">56</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<atlasNumber>4</atlasNumber>
+			<itemDescription>Samosa mini</itemDescription>
+			<weight units="g">20</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<atlasNumber>5</atlasNumber>
+			<itemDescription>Samosa</itemDescription>
+			<weight units="g">35</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<atlasNumber>6</atlasNumber>
+			<itemDescription>Samosa</itemDescription>
+			<weight units="g">85</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<atlasNumber>7</atlasNumber>
+			<itemDescription>Samosa</itemDescription>
+			<weight units="g">88</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H </inPhotoCode>
+			<atlasNumber>8</atlasNumber>
+			<itemDescription>Naan bread large</itemDescription>
+			<weight units="g">133</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G14</photoGuideCode>
+		<photoNumber>92</photoNumber>
+		<photoFilename>92_G14.jpg</photoFilename>
+		<photoDescription>Tin Selection - Meat fish soup and baked beans</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<itemDescription>Baked beans</itemDescription>
+			<weight units="g">840</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<itemDescription>Baked beans</itemDescription>
+			<weight units="g">420</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C </inPhotoCode>
+			<itemDescription>Baked beans</itemDescription>
+			<weight units="g">205</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<itemDescription>Baked beans</itemDescription>
+			<weight units="g">150</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<itemDescription>Tomato soup</itemDescription>
+			<weight units="g">405</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<itemDescription>Tomato soup</itemDescription>
+			<weight units="g">300</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<itemDescription>Pilchards</itemDescription>
+			<weight units="g">155</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H </inPhotoCode>
+			<itemDescription>Pilchards</itemDescription>
+			<weight units="g">215</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>I </inPhotoCode>
+			<itemDescription>Corned beef</itemDescription>
+			<weight units="g">198</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>J </inPhotoCode>
+			<itemDescription>Corned beef</itemDescription>
+			<weight units="g">340</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>K </inPhotoCode>
+			<itemDescription>Luncheon meat (Spam)</itemDescription>
+			<weight units="g">340</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>L </inPhotoCode>
+			<itemDescription>Luncheon meat</itemDescription>
+			<weight units="g">340</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>M </inPhotoCode>
+			<itemDescription>Tuna</itemDescription>
+			<weight units="g">200</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>N </inPhotoCode>
+			<itemDescription>Tuna</itemDescription>
+			<weight units="g">100</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>O</inPhotoCode>
+			<itemDescription>Sardines</itemDescription>
+			<weight units="g">120</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>P </inPhotoCode>
+			<itemDescription>Salmon</itemDescription>
+			<weight units="g">105</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>Q </inPhotoCode>
+			<itemDescription>Salmon</itemDescription>
+			<weight units="g">213</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G15</photoGuideCode>
+		<photoNumber>93</photoNumber>
+		<photoFilename>93_G15.jpg</photoFilename>
+		<photoDescription>Tin Selection - Vegetables and beans</photoDescription>
+		<photoItem>
+			<inPhotoCode>A</inPhotoCode>
+			<itemDescription>Peas</itemDescription>
+			<weight units="g">540</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B</inPhotoCode>
+			<itemDescription>Peas</itemDescription>
+			<weight units="g">300</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C</inPhotoCode>
+			<itemDescription>Peas</itemDescription>
+			<weight units="g">145</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D</inPhotoCode>
+			<itemDescription>Sweetcorn</itemDescription>
+			<weight units="g">326</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E</inPhotoCode>
+			<itemDescription>Sweetcorn</itemDescription>
+			<weight units="g">198</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F</inPhotoCode>
+			<itemDescription>Kidney beans</itemDescription>
+			<weight units="g">220</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G</inPhotoCode>
+			<itemDescription>Kidney beans</itemDescription>
+			<weight units="g">420</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G16</photoGuideCode>
+		<photoNumber>94</photoNumber>
+		<photoFilename>94_G16.jpg</photoFilename>
+		<photoDescription>Tin selection ­Rice pudding and fruit</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<itemDescription>Rice pudding</itemDescription>
+			<weight units="g">624</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<itemDescription>Rice pudding</itemDescription>
+			<weight units="g">425</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C </inPhotoCode>
+			<itemDescription>Rice pudding</itemDescription>
+			<weight units="g">213</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<itemDescription>Rice pudding</itemDescription>
+			<weight units="g">150</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<itemDescription>Fruitini</itemDescription>
+			<weight units="g">140</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<itemDescription>Fruit cocktail</itemDescription>
+			<weight units="g">213</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<itemDescription>Mandarin segments</itemDescription>
+			<weight units="g">312</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H </inPhotoCode>
+			<itemDescription>Tropical fruit salad</itemDescription>
+			<weight units="g">425</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>I </inPhotoCode>
+			<itemDescription>Fruit cocktail</itemDescription>
+			<weight units="g">411</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G17</photoGuideCode>
+		<photoNumber>95</photoNumber>
+		<photoFilename>95_G17.jpg</photoFilename>
+		<photoDescription>Soft drink bottle and can selection</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<itemDescription>Cola bottle</itemDescription>
+			<weight units="ml">1000</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<itemDescription>Coca coLa bottle</itemDescription>
+			<weight units="ml">500</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C </inPhotoCode>
+			<itemDescription>Pepsi coLa bottle</itemDescription>
+			<weight units="ml">500</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D </inPhotoCode>
+			<itemDescription>Cola bottle</itemDescription>
+			<weight units="ml">250</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E </inPhotoCode>
+			<itemDescription>Coca cola can</itemDescription>
+			<weight units="ml">500</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F </inPhotoCode>
+			<itemDescription>Coca cola can</itemDescription>
+			<weight units="ml">330</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G </inPhotoCode>
+			<itemDescription>Coca cola can</itemDescription>
+			<weight units="ml">150</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G18</photoGuideCode>
+		<photoNumber>96</photoNumber>
+		<photoFilename>96_G18.jpg</photoFilename>
+		<photoDescription>Fluid in a glass (life size)</photoDescription>
+		<photoItem>
+			<inPhotoCode>A </inPhotoCode>
+			<itemDescription>Milk in glass</itemDescription>
+			<weight units="ml">100</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B </inPhotoCode>
+			<itemDescription>Milk in glass</itemDescription>
+			<weight units="ml">200</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C </inPhotoCode>
+			<itemDescription>Milk in glass</itemDescription>
+			<weight units="ml">300</weight>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G19</photoGuideCode>
+		<photoNumber>97</photoNumber>
+		<photoFilename>97_G19.jpg</photoFilename>
+		<photoDescription>Crockery and glass selection</photoDescription>
+		<photoItem>
+			<inPhotoCode>A</inPhotoCode>
+			<itemDescription>Wine glass (to upper line)</itemDescription>
+			<weight units="ml">100</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>A</inPhotoCode>
+			<itemDescription>Wine glass (to lower line)</itemDescription>
+			<weight units="ml">25</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B</inPhotoCode>
+			<itemDescription>Wine glass (to upper line)</itemDescription>
+			<weight units="ml">160</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B</inPhotoCode>
+			<itemDescription>Wine glass (to lower line)</itemDescription>
+			<weight units="ml">125</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C</inPhotoCode>
+			<itemDescription>Sherry gLass (fuLL to brim)</itemDescription>
+			<weight units="ml">100</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C</inPhotoCode>
+			<itemDescription>Sherry gLass (haLf to brim)</itemDescription>
+			<weight units="ml">50</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D</inPhotoCode>
+			<itemDescription>Wine glass (to upper line)</itemDescription>
+			<weight units="ml">175</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D</inPhotoCode>
+			<itemDescription>Wine glass (to lower line)</itemDescription>
+			<weight units="ml">125</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E</inPhotoCode>
+			<itemDescription>Wine glass (to upper line)</itemDescription>
+			<weight units="ml">200</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E</inPhotoCode>
+			<itemDescription>Wine glass (to lower line)</itemDescription>
+			<weight units="ml">125</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F</inPhotoCode>
+			<itemDescription>Wine glass (to upper line)</itemDescription>
+			<weight units="ml">300</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F</inPhotoCode>
+			<itemDescription>Wine glass (to lower line)</itemDescription>
+			<weight units="ml">125</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G</inPhotoCode>
+			<itemDescription>Half pint gLass</itemDescription>
+			<weight units="ml">284</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>H</inPhotoCode>
+			<itemDescription>Straight gLass</itemDescription>
+			<weight units="ml">300</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>I</inPhotoCode>
+			<itemDescription>Straight gLass</itemDescription>
+			<weight units="ml">200</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>J</inPhotoCode>
+			<itemDescription>Straight glass</itemDescription>
+			<weight units="ml">250</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>K</inPhotoCode>
+			<itemDescription>Straight gLass</itemDescription>
+			<weight units="ml">160</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>L</inPhotoCode>
+			<itemDescription>Straight gLass (to upper line)</itemDescription>
+			<weight units="ml">160</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>L</inPhotoCode>
+			<itemDescription>Straight gLass (to Lower Line)</itemDescription>
+			<weight units="ml">25</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>M</inPhotoCode>
+			<itemDescription>BowL 8.5" (22 cm) diameter (to upper Line)</itemDescription>
+			<weight units="ml">300</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>M</inPhotoCode>
+			<itemDescription>BowL 8.5" (22 cm) diameter (to Lower Line)</itemDescription>
+			<weight units="ml">100</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>N</inPhotoCode>
+			<itemDescription>cup and saucer</itemDescription>
+			<weight units="ml">190</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>O</inPhotoCode>
+			<itemDescription>cup and saucer</itemDescription>
+			<weight units="ml">225</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>P</inPhotoCode>
+			<itemDescription>Mug</itemDescription>
+			<weight units="ml">260</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>Q</inPhotoCode>
+			<itemDescription>Mug</itemDescription>
+			<weight units="ml">220</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>R</inPhotoCode>
+			<itemDescription>BowL 6" (15 cm) diameter (to upper Line)</itemDescription>
+			<weight units="ml">300</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>R</inPhotoCode>
+			<itemDescription>BowL 6 (15 cm) diameter (to Lower Line)</itemDescription>
+			<weight units="ml">100</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>S</inPhotoCode>
+			<itemDescription>Dinner pLate 10" (25 cm) diameter</itemDescription>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>T</inPhotoCode>
+			<itemDescription>Dinner pLate 9" (23 cm) diameter</itemDescription>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>U</inPhotoCode>
+			<itemDescription>Dinner pLate 8" (20 cm) diameter</itemDescription>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>V</inPhotoCode>
+			<itemDescription>"ide pLate 7" (18 cm) diameter</itemDescription>
+		</photoItem>
+	</photo>
+	<photo>
+		<photoGuideCode>G20</photoGuideCode>
+		<photoNumber>98</photoNumber>
+		<photoFilename>98_G20.jpg</photoFilename>
+		<photoDescription>Spoons and ladles</photoDescription>
+		<photoItem>
+			<inPhotoCode>A</inPhotoCode>
+			<itemDescription>Teaspoon (tsp)</itemDescription>
+			<weight units="ml">5</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>B</inPhotoCode>
+			<itemDescription>Dessertspoon (dsp)</itemDescription>
+			<weight units="ml">10</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>C</inPhotoCode>
+			<itemDescription>Tablespoon (tbs)</itemDescription>
+			<weight units="ml">15</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>D</inPhotoCode>
+			<itemDescription>Tablespoon (tbs)</itemDescription>
+			<weight units="ml">20</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>E</inPhotoCode>
+			<itemDescription>Serving spoon (ss)</itemDescription>
+			<weight units="ml">40</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>F</inPhotoCode>
+			<itemDescription>Ladle</itemDescription>
+			<weight units="ml">100</weight>
+		</photoItem>
+		<photoItem>
+			<inPhotoCode>G</inPhotoCode>
+			<itemDescription>Ladle</itemDescription>
+			<weight units="ml">140</weight>
+		</photoItem>
+	</photo>
+</foodPortionSizes>

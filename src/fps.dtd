@@ -1,0 +1,18 @@
+<!DOCTYPE foodPortionSizes
+[
+<!ELEMENT foodPortionSizes (photo+)>
+
+<!ELEMENT photo (photoGuideCode,photoNumber,photoFilename,photoDescription,photoItem*)>
+<!ELEMENT photoGuideCode (CDATA)>
+<!ELEMENT photoNumber (CDATA)>
+<!ELEMENT photoFilename (CDATA)>
+<!ELEMENT photoDescription (CDATA)>
+
+<!ELEMENT photoItem (inPhotoCode,atlasNumber?,itemDescription,weight?)>
+<!ELEMENT inPhotoCode (CDATA)>
+<!ELEMENT atlasNumber (CDATA)>
+<!ELEMENT itemDescription (CDATA)>
+
+<!ELEMENT weight (CDATA)>
+<!ATTLIST weight units CDATA #REQUIRED>
+]>
